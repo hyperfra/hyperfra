@@ -2,3 +2,7 @@
 	path = hyperfra
 	url = https://github.com/hyperfra/hyperfra
 	branch = main
+[submodule "hyperfra.github.io"]
+	path = hyperfra.github.io
+	url = https://github.com/hyperfra/hyperfra.github.io
+	branch = main
