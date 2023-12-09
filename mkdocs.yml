@@ -1,0 +1,13 @@
+site_name: Francesco Franco Classes
+site_url: https://hyperfra.github.io
+site_author: you
+site_description: a short description of your website
+
+nav:
+  - About: index.md
+
+theme:
+  name: material
+  highlightjs: true
+  hljs_languages:
+    - yaml
